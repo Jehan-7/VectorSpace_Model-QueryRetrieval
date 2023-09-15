@@ -26,5 +26,7 @@
 **Usage:**
 
 1)Place your .txt document files in a folder named documents in the same directory as the notebook.
+
 2)Execute the provided Jupyter notebook.
+
 3)Adjust and execute the query variable in the notebook to rank and retrieve documents related to your desired query.
